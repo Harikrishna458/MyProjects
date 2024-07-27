@@ -15,9 +15,3 @@ A simple banking application developed in Java using JDBC and PostgreSQL.
 - JDBC
 - PostgreSQL
 
-## Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your_username/banking-system.git
-   cd banking-system
